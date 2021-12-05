@@ -8,6 +8,7 @@ Jump directly to the jupyter notebook for each problem here:
 - Day 2: [Dive!](https://github.com/artdavis/adventofcode2021/blob/main/day02/Dive.ipynb)
 - Day 3: [Binary Diagnostic](https://github.com/artdavis/adventofcode2021/blob/main/day03/Binary_Diagnostic.ipynb)
 - Day 4: [Giant Squid](https://github.com/artdavis/adventofcode2021/blob/main/day04/Giant_Squid.ipynb)
+- Day 5: [Hydrothermal Venture](https://github.com/artdavis/adventofcode2021/blob/main/day05/Hydrothermal_Venture.ipynb)
 
 Each folder contains a `README.md` that was rendered to Markdown from the
 jupyter notebook using the command:
