@@ -10,6 +10,7 @@ Jump directly to the jupyter notebook for each problem here:
 - Day 4: [Giant Squid](https://github.com/artdavis/adventofcode2021/blob/main/day04/Giant_Squid.ipynb)
 - Day 5: [Hydrothermal Venture](https://github.com/artdavis/adventofcode2021/blob/main/day05/Hydrothermal_Venture.ipynb)
 - Day 6: [Lanternfish](https://github.com/artdavis/adventofcode2021/blob/main/day06/Lanternfish.ipynb)
+- Day 7: [The Treachery of Whales](https://github.com/artdavis/adventofcode2021/blob/main/day07/The_Treachery_of_Whales.ipynb)
 
 Each folder contains a `README.md` that was rendered to Markdown from the
 jupyter notebook using the command:
