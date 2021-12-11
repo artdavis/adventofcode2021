@@ -12,6 +12,7 @@ Jump directly to the jupyter notebook for each problem here:
 - Day 6: [Lanternfish](https://github.com/artdavis/adventofcode2021/blob/main/day06/Lanternfish.ipynb)
 - Day 7: [The Treachery of Whales](https://github.com/artdavis/adventofcode2021/blob/main/day07/The_Treachery_of_Whales.ipynb)
 - Day 8: [Seven Segment Search](https://github.com/artdavis/adventofcode2021/blob/main/day08/Seven_Segment_Search.ipynb)
+- Day 9: [Smoke Basin](https://github.com/artdavis/adventofcode2021/blob/main/day09/Smoke_Basin.ipynb)
 
 Each folder contains a `README.md` that was rendered to Markdown from the
 jupyter notebook using the command:
