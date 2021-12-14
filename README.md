@@ -17,6 +17,7 @@ Jump directly to the jupyter notebook for each problem here:
 - Day 11: [Dumbo Octopus](https://github.com/artdavis/adventofcode2021/blob/main/day11/Dumbo_Octopus.ipynb)
 - Day 12: [Passage Pathing](https://github.com/artdavis/adventofcode2021/blob/main/day12/Passage_Pathing.ipynb)
 - Day 13: [Transparent Origami](https://github.com/artdavis/adventofcode2021/blob/main/day13/Transparent_Origami.ipynb)
+- Day 14: [Extended Polymerization](https://github.com/artdavis/adventofcode2021/blob/main/day14/Extended_Polymerization.ipynb)
 
 Each folder contains a `README.md` that was rendered to Markdown from the
 jupyter notebook using the command:
